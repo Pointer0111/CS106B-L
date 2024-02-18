@@ -2029,7 +2029,7 @@ void run_test_harness() {
     // required_pass += run_milestone3_tests();
     cout << '\n' << "----- Milestone 2 Tests -----" << '\n';
     //Note to reader: The modified version of this assignment only has two milestones
-    //Old milestone4 = new mmilestone2!
+    //Old milestone4 = new milestone2!
     required_pass += run_milestone4_tests();
     // cout << '\n' << "----- Benchmark Tests (Optional) -----" << '\n';
     // bonus_pass += run_benchmark();

@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Alan Wang/Desktop/CS106L/CS106B-L/CS106L/HashMap",
-      "program": "c:/Users/Alan Wang/Desktop/CS106L/CS106B-L/CS106L/HashMap/build/Debug/outDebug",
+      "cwd": "c:/Users/Alan Wang/Desktop/CS106B-L/CS106L/HashMap",
+      "program": "c:/Users/Alan Wang/Desktop/CS106B-L/CS106L/HashMap/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
